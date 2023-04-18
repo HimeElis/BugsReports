@@ -1,2 +1,2 @@
-# BugsReports
+# BugReports
 Portfolio
