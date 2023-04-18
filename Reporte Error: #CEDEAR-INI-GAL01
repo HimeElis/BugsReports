@@ -1,0 +1,36 @@
+Reporte Error: #CEDEAR-INI-GAL01
+::::::::::::::::::::::::::::::::
+
+ID Error :: # CEDEAR-INI-GAL01 
+Tester :: Elisburu Jimena
+Fecha (enviado) :: 17.04.2023
+Título :: CEDEAR LINK – No redirije a página de Cedear Galicia.
+<Descripción de error>
+URL :: https://www.galicia.ar/personas/inversiones/bonos-acciones%20title=
+Resúmen :: La página donde debería mostrar información sobre CEDEAR aparece vacía.
+Captura de Pantalla :: Ver apartado de captura de pantalla.
+Plataforma :: Android Versión 13.
+Explorador :: Chrome 108.0.5359.128 (Official) .
+<Administrativo>
+Asignado a :: Área de QA Testing- Banco Galicia.
+Asignado en :: 17.04.2023
+Prioridad :: Baja
+Severidad :: Media
+
+-------------------------
+<Notas Adicionales:>
+-------------------------
+
+<Descripción paso a paso:>
+
+1-Abrir https://www.galicia.ar/personas 
+2-Clickear en CEDEAR - Conocer Inversiones
+3-Redirecciona y carga la página.
+4-La página de CEDEAR se muestra vacía.
+
+<-Capturas de pantalla:>
+
+-----------------------------------------------------------------------------------
+Resultado Esperado:: Página de CEDEAR con el título “Bonos, Acciones, CEDEAR y ETF”
+Resultado:: “<vacío>”
+-----------------------------------------------------------------------------------
